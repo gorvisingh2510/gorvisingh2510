@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #  About Me:
- -I’m currently building AI-powered and full-stack web applications that solve real-world problems.<br><br> - I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, and scalable web applications.<br><br> - I’m looking for guidance in advanced Machine Learning, Deep Learning, and building production-ready AI systems.<br><br> - I’m currently learning Machine Learning, Deep Learning, and improving my skills in full-stack development.<br><br> - Ask me about Python, React, Flask, AI-based applications, and building end-to-end projects.<br><br> Fun fact: I enjoy transforming complex ideas into simple, functional AI-driven applications.
+ -I’m currently building AI-powered and full-stack web applications that solve real-world problems.<br><br> - I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, and scalable web applications.<br><br> - I’m currently learning Machine Learning, Deep Learning, and improving my skills in full-stack development.<br><br> - Ask me about Python, React, Flask, AI-based applications, and building end-to-end projects.<br><br> Fun fact: I enjoy transforming complex ideas into simple, functional AI-driven applications.
 
 
 ##  Socials:
