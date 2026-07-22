@@ -1,8 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gorvi Singh</h1>
+<h3 align="center">B.Tech CSE Student (AI & ML) • Full Stack & AI Enthusiast • Building projects and chasing internships</h3>
 
 #  About Me:
- -I’m currently building AI-powered and full-stack web applications that solve real-world problems.<br><br> - I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, and scalable web applications.<br><br> - I’m currently learning Machine Learning, Deep Learning, and improving my skills in full-stack development.<br><br> - Ask me about Python, React, Flask, AI-based applications, and building end-to-end projects.<br><br> Fun fact: I enjoy transforming complex ideas into simple, functional AI-driven applications.
-
+ • I’m currently building **AI-powered and full-stack web applications** that solve real-world problems.<br><br> • I’m looking to collaborate on projects related to **Artificial Intelligence, Machine Learning, and scalable web applications**.<br><br> • You can reach me out on gorvi2510@gmail.com <br><br> • Ask me about **Python, React, Flask, AI-based applications, and building end-to-end projects**.<br><br>
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gorvisingh25/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gorvi-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gorvi2510@gmail.com) 
