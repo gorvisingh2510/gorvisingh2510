@@ -5,7 +5,7 @@
  • I’m currently building **AI-powered and full-stack web applications** that solve real-world problems.<br><br> • I’m looking to collaborate on projects related to **Artificial Intelligence, Machine Learning, and scalable web applications**.<br><br> 
  • Ask me about **Python, React, Flask, AI-based applications, and building end-to-end projects**.<br><br>
 
-##  Socials:
+#  Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorvi-singh/) 
 
 #  Tech Stack:
