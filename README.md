@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gorvi Singh</h1>
+<h1 align="center">Hi , I'm Gorvi Singh</h1>
 <h3 align="center">B.Tech CSE Student (AI & ML) • Full Stack & AI Enthusiast • Building projects and chasing internships</h3>
 
 #  About Me:
