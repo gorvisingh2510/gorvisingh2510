@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gorvi Singh</h1>
-<h3 align="center">B.Tech CSE Student (AI & ML) • Full Stack & AI Enthusiast • Building projects and chasing internships</h3>
+<h4 align="center">B.Tech CSE Student (AI & ML) • Full Stack & AI Enthusiast • Building projects and chasing internships</h3>
 
 ## About Me:
  • I’m currently building **AI-powered and full-stack web applications** that solve real-world problems.<br><br> • I’m looking to collaborate on projects related to **Artificial Intelligence, Machine Learning, and scalable web applications**.<br><br> 
