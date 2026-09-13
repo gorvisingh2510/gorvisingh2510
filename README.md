@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student (AI & ML) • Full Stack & AI Enthusiast • Building projects and chasing internships</h3>
 
 #  About Me:
- • I’m currently building **AI-powered and full-stack web applications** that solve real-world problems.<br><br> • I’m looking to collaborate on projects related to **Artificial Intelligence, Machine Learning, and scalable web applications**.<br><br> • You can reach me out on https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorvi-singh/) 
+ • I’m currently building **AI-powered and full-stack web applications** that solve real-world problems.<br><br> • I’m looking to collaborate on projects related to **Artificial Intelligence, Machine Learning, and scalable web applications**.<br><br> 
  • Ask me about **Python, React, Flask, AI-based applications, and building end-to-end projects**.<br><br>
 
 ##  Socials:
